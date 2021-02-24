@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FoursquareSearch</string>
+    <string name="search">Search</string>
+    <string name="location_denied">Location denied please enable it.</string>
+    <string name="welcome">Please search for a venues</string>
+    <string name="failed_to_get_location">We could not get your locations, Is your GPS working?</string>
+    <string name="retry">Retry</string>
+    <string name="bad_search_exception">Bad Search Query found</string>
+    <string name="no_internet_exception">No internet found, please try again</string>
 </resources>
